@@ -1,4 +1,8 @@
 {
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+  },
   "include": [
     "src/**/*.ts",
     "src/**/*.d.ts",
